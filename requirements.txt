@@ -1,0 +1,21 @@
+# Core (used by src/ and the notebook)
+pandas
+numpy
+scipy
+pyarrow
+scikit-learn
+joblib
+matplotlib
+notebook
+ipykernel
+
+# Transformer fine-tuning and SHAP
+torch          # on a Mac running macOS 14, PyTorch 2.15 crashed on the Apple GPU; torch==2.11.0 works there
+transformers
+shap
+
+# Optional: Word2Vec baseline (needs Python 3.12 or lower; no installer for 3.14)
+gensim
+
+# For exact reproducibility, record the versions that produced your results:
+#   pip freeze > requirements-lock.txt
