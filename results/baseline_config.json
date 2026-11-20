@@ -1,0 +1,22 @@
+{
+  "seed": 42,
+  "grids": {
+    "tfidf_logreg": [
+      1,
+      10,
+      100
+    ],
+    "tfidf_svm": [
+      0.1,
+      0.5,
+      1.0
+    ],
+    "w2v_logreg": [
+      0.1,
+      1,
+      10
+    ]
+  },
+  "max_features": 200000,
+  "keep_stopwords": false
+}

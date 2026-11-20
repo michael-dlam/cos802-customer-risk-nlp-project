@@ -1,0 +1,80 @@
+label,Issue,n
+churn,Closing an account,23342
+churn,Closing your account,13163
+churn,Problem getting a card or closing an account,970
+fraud,Fraud or scam,23860
+fraud,Getting a credit card,11959
+fraud,Unauthorized transactions or other transaction problem,8977
+fraud,Opening an account,5191
+fraud,Getting a loan or lease,2224
+other,Managing an account,91193
+other,Other transaction problem,53224
+other,Problem with a purchase shown on your statement,47265
+other,Trouble during payment process,42815
+other,Problem with a lender or other company charging your account,21010
+other,"Other features, terms, or problems",20699
+other,Fees or interest,18953
+other,Struggling to pay mortgage,18572
+other,Problem caused by your funds being low,16835
+other,Incorrect information on your report,14848
+other,Problem when making payments,14506
+other,Managing the loan or lease,14217
+other,Applying for a mortgage or refinancing an existing mortgage,11703
+other,Problem with a company's investigation into an existing problem,10845
+other,"Advertising and marketing, including promotional offers",8898
+other,Opening an account,8882
+other,Closing on a mortgage,8157
+other,Getting a credit card,8007
+other,Trouble using your card,7756
+other,Problems at the end of the loan or lease,7608
+other,Repossession,6924
+other,Trouble using the card,6667
+other,Problem with a credit reporting company's investigation into an existing problem,6438
+other,Struggling to pay your loan,6418
+other,Money was not available when promised,5849
+other,"Managing, opening, or closing your mobile wallet account",5295
+other,Problem with a purchase or transfer,5155
+other,Charged fees or interest you didn't expect,4659
+other,Trouble accessing funds in your mobile or digital wallet,4188
+other,Unexpected or other fees,4167
+other,Getting a loan or lease,4001
+other,Other service problem,3086
+other,Improper use of your report,2700
+other,Confusing or missing disclosures,2569
+other,Struggling to pay your bill,2449
+other,Problem getting a card or closing an account,1881
+other,Problem with the payoff process at the end of the loan,1516
+other,Getting the loan,1476
+other,Problem with additional add-on products or services,1476
+other,Problem with customer service,1334
+other,Wrong amount charged or received,862
+other,Credit monitoring or identity theft protection services,751
+other,Confusing or misleading advertising or marketing,736
+other,Getting a line of credit,586
+other,Problem adding money,559
+other,Lost or stolen money order,411
+other,Problem with fraud alerts or security freezes,383
+other,Received a loan you didn't apply for,371
+other,Can't stop withdrawals from your bank account,321
+other,Can't contact lender or servicer,293
+other,Advertising,283
+other,Unable to get your credit report or credit score,251
+other,Money was taken from your bank account on the wrong day or for the wrong amount,214
+other,Vehicle was repossessed or sold the vehicle,214
+other,Loan payment wasn't credited to your account,207
+other,Lost or stolen check,195
+other,Issues with repayment,176
+other,"Was approved for a loan, but didn't receive the money",149
+other,"Overdraft, savings, or rewards features",121
+other,Problems receiving the advance,104
+other,Unexpected fees,93
+other,Problem with overdraft,92
+other,Incorrect exchange rate,75
+other,Problem with cash advance,74
+other,Vehicle was damaged or destroyed the vehicle,55
+other,Credit limit changed,48
+other,"Was approved for a loan, but didn't receive money",37
+other,Property was sold,11
+other,Lost or stolen refund,7
+other,Property was damaged or destroyed property,3
+other,Problem with an overdraft,2
